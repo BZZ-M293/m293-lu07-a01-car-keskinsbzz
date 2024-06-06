@@ -1,0 +1,6 @@
+1. Platzsparend: select-Elemente sind kompakt und nehmen weniger Platz ein.
+Übersichtlichkeit: Alle Optionen sind in einem Dropdown-Menü zusammengefasst, was bei vielen Optionen übersichtlicher ist.
+Warum haben wir für die Auswahl der Lackfarbe radiobutton Elemente verwendet, statt ein select Element zu verwenden?
+
+2. Sichtbarkeit: Radiobuttons zeigen alle Optionen auf einmal, was bei wenigen Auswahlmöglichkeiten benutzerfreundlicher ist.
+Erwartungskonformität: Nutzer erwarten, dass Farben direkt auswählbar sind, ohne ein Dropdown-Menü zu öffnen.
